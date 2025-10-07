@@ -191,6 +191,11 @@ html{
     font-family: "Noto Sans", sans-serif;
 }
 
+.right-text2 hr {
+    border: none;
+    border-top: 1px solid #7D7D7D;
+}
+
 .first-text{
     height: 54px;
     margin: 0px;
@@ -199,6 +204,7 @@ html{
 .second-text{
     margin: 0px;
 }
+
 
 
 .footer {
